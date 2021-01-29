@@ -1,35 +1,37 @@
 # List
 **SOCIALCLUB TAG                 ROCKSTAR ID                TITLES ACTIVE IN**
 
-DigitalFox9                    103054099                  GTA Online
+\FluteOfMilton                  121970978                  GTA Online\
 
-PisswasserMax                  171094021                  Red Dead Online
+\PisswasserMax                  171094021                  Red Dead Online\
 
-BanSparklinWater               173213117                  Red Dead Online
+\BanSparklinWater               173213117                  Red Dead Online\
 
-BrucieJuiceyIV                 171093866                  Red Dead Online
+\BrucieJuiceyIV                 171093866                  Red Dead Online\
 
-RapidRaichu                    88435362                   Red Dead Online
+\RapidRaichu                    88435362                   GTA Online + Red Dead Online\
 
-FoxesAreCool69                 104041189                  GTA Online
+\DigitalFox9                    103054099                  GTA Online\
 
-IM-_-Wassup                    104432921                  GTA Online
+\FoxesAreCool69                 104041189                  GTA Online\
 
-DeadOnAir                      10552062                   GTA Online
+\IM-_-Wassup                    104432921                  GTA Online\
 
-DarkStar7171                   114982881                  GTA Online + Red Dead Online
+\DeadOnAir                      10552062                   GTA Online\
 
-xCuteBunny                     119266383                  GTA Online
+\DarkStar7171                   114982881                  GTA Online + Red Dead Online\
 
-random_123                     119958356                  GTA Online
+\xCuteBunny                     119266383                  GTA Online\
 
-flyingcobra16                  121397532                  GTA Online
+\random_123                     119958356                  GTA Online\
 
-CriticalRegret                 121698158                  GTA Online
+\flyingcobra16                  121397532                  GTA Online\
 
-HammerDaddy69                  121943600                  GTA Online
+\CriticalRegret                 121698158                  GTA Online\
 
-FluteOfMilton                  121970978                  GTA Online
+\HammerDaddy69                  121943600                  GTA Online\
+
+
 
 johnet123                      123017343                  GTA Online
 
