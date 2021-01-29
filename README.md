@@ -1,6 +1,12 @@
 # List
 **SOCIALCLUB TAG                 ROCKSTAR ID                TITLES ACTIVE IN**
 
+AlpacaBarista                  117639190                  GTA Online
+
+The_Real_Harambe               93759401                   GTA Online
+
+Flares4Lyfe                    103814653                  GTA Online
+
 FluteOfMilton                  121970978                  GTA Online
 
 PisswasserMax                  171094021                  Red Dead Online
