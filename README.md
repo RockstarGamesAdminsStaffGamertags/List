@@ -42,7 +42,7 @@ flyingcobra16 | 121397532 | GTA Online | SCTV cheater monitoring | None
 CriticalRegret | 121698158 | GTA Online | Cheat analysis | None
 ScentedPotter | 18965281 | GTA Online | Cheat analysis | None
 Huginn5 | 56778561 | GTA Online | Cheat analysis | None
-Sonknuck- | 63457 | GTA Online + Red Dead Online | Cheat analysis | None
+Sonknuck- | 63457 | GTA Online + Red Dead Online | Cheat analysis | PSN: Sonknuck-
 HammerDaddy69 | 121943600 | GTA Online | SCTV cheater monitoring | None
 johnet123 | 123017343 | GTA Online | Game bug testing | None
 bipolarcarp | 123849404 | GTA Online | SCTV cheater monitoring | Suspected alt account of Huginn5
@@ -65,3 +65,48 @@ BananaGod951 | 137663665 | GTA Online | SCTV cheater monitoring | None
 s0cc3r33 | 9284553 |  GTA Online + Red Dead Online | SCTV cheater monitoring | None
 trajan5 | 147111499 | GTA Online | SCTV cheater monitoring | Alt account of Huginn5
 thewho146 | 6597634 | GTA Online | Game bug testing | None
+Bangers_RSG | 23659342 | GTA Online | Live streams | None
+Bash_RSG | 23659354 | GTA Online | Live streams | None
+Bubblez_RSG | 103318524 | GTA Online | Live streams | None
+ChefRSG | 132521200 | GTA Online | Unknown | None
+Chunk_RSG | 107713114 | GTA Online | Live streams | None
+HotTub_RSG | 107713060 | GTA Online | Live streams | None
+JPEGMAFIA_RSG | 23659353 | GTA Online | Live streams | Gamertag subject to occasional change
+Klang_RSG | 57233573 | GTA Online | Live streams | None
+Lean1_RSG | 111439945 | GTA Online | Live streams | None
+Ton_RSG | 81691532 | GTA Online | Live streams | None
+RSGWolfman | 77205006 | GTA Online | Unknown | None
+TheUntamedVoid | 25695975 | GTA Online | Unknown | None
+TylerTGTAB | 24646485 | GTA Online | Unknown | XB gamertag: SurvivorNumber1
+Wilted_spinach | 49770174 | None | Unknown | None
+RSGINTJoe | 146452200 | GTA Online + Red Dead Online | Unknown | None
+RSGGuestV | 54468359 | GTA Online | Unknown | None
+RSGGuest50 | 54462116 | GTA Online | Unknown | None
+RSGGuest40 | 53309582 | GTA Online | Unknown | None
+Logic_rsg | 85593421 | GTA Online | Unknown | None
+RSGGuest12 | 21088063 | GTA Online | Unknown | None
+RSGGuest7 | 50850475 | GTA Online | Unknown | None
+ScottM_RSG | 31586721 | GTA Online | Unknown | None
+Rockin5 | 56583239 | GTA Online | Unknown | None
+playrockstar6 | 20158753 | GTA Online | Unknown | None
+PlayRockstar5 | 20158751 | GTA Online | Unknown | None
+PlayRockstar1 | 23659351 | GTA Online | Unknown | None
+Player8_RSG | 91031119 | GTA Online | Unknown | None
+Player7_RSG | 91003708 | GTA Online | Unknown | None
+MaxPayneDev16 | 16396170 | Max Payne 3 | Unknown | None
+MaxPayneDev15 | 16396157 | Max Payne 3 | Unknown | None
+MaxPayneDev14 | 16396148 | Max Payne 3 | Unknown | None
+MaxPayneDev13 | 16396141 | Max Payne 3 | Unknown | None
+MaxPayneDev12 | 16396133 | Max Payne 3 | Unknown | None
+MaxPayneDev11 | 16396126 | Max Payne 3 | Unknown | None
+MaxPayneDev10 | 16396118 | Max Payne 3 | Unknown | None
+MaxPayneDev9 | 16396107 | Max Payne 3 | Unknown | None
+MaxPayneDev8 | 16396096 | Max Payne 3 | Unknown | None
+MaxPayneDev7 | 16396091 | Max Payne 3 | Unknown | None
+MaxPayneDev6 | 16396080 | Max Payne 3 | Unknown | None
+MaxPayneDev5 | 16395850 | Max Payne 3 | Unknown | None
+MaxPayneDev4 | 16395840 | Max Payne 3 + GTA Online + GTA 4 | Unknown | None
+MaxPayneDev3 | 16395850 | Max Payne 3 + GTA Online + GTA 4 + RDR1 | Unknown | None
+MaxPayneDev2 | 16395782 | Max Payne 3 | Unknown | None
+MaxPayneDev1 | 16395773 | All AAA titles | Unknown | None
+
