@@ -93,20 +93,24 @@ PlayRockstar5 | 20158751 | GTA Online | Unknown | None
 PlayRockstar1 | 23659351 | GTA Online | Unknown | None
 Player8_RSG | 91031119 | GTA Online | Unknown | None
 Player7_RSG | 91003708 | GTA Online | Unknown | None
-MaxPayneDev16 | 16396170 | Max Payne 3 | Unknown | None
-MaxPayneDev15 | 16396157 | Max Payne 3 | Unknown | None
-MaxPayneDev14 | 16396148 | Max Payne 3 | Unknown | None
-MaxPayneDev13 | 16396141 | Max Payne 3 | Unknown | None
-MaxPayneDev12 | 16396133 | Max Payne 3 | Unknown | None
-MaxPayneDev11 | 16396126 | Max Payne 3 | Unknown | None
-MaxPayneDev10 | 16396118 | Max Payne 3 | Unknown | None
-MaxPayneDev9 | 16396107 | Max Payne 3 | Unknown | None
-MaxPayneDev8 | 16396096 | Max Payne 3 | Unknown | None
-MaxPayneDev7 | 16396091 | Max Payne 3 | Unknown | None
-MaxPayneDev6 | 16396080 | Max Payne 3 | Unknown | None
-MaxPayneDev5 | 16395850 | Max Payne 3 | Unknown | None
-MaxPayneDev4 | 16395840 | Max Payne 3 + GTA Online + GTA 4 | Unknown | None
-MaxPayneDev3 | 16395850 | Max Payne 3 + GTA Online + GTA 4 + RDR1 | Unknown | None
-MaxPayneDev2 | 16395782 | Max Payne 3 | Unknown | None
-MaxPayneDev1 | 16395773 | All AAA titles | Unknown | None
-
+MaxPayneDev16 | 16396170 | Max Payne 3 | Core game dev | None
+MaxPayneDev15 | 16396157 | Max Payne 3 | Core game dev | None
+MaxPayneDev14 | 16396148 | Max Payne 3 | Core game dev | None
+MaxPayneDev13 | 16396141 | Max Payne 3 | Core game dev | None
+MaxPayneDev12 | 16396133 | Max Payne 3 | Core game dev | None
+MaxPayneDev11 | 16396126 | Max Payne 3 | Core game dev | None
+MaxPayneDev10 | 16396118 | Max Payne 3 | Core game dev | None
+MaxPayneDev9 | 16396107 | Max Payne 3 | Core game dev | None
+MaxPayneDev8 | 16396096 | Max Payne 3 | Core game dev | None
+MaxPayneDev7 | 16396091 | Max Payne 3 | Core game dev | None
+MaxPayneDev6 | 16396080 | Max Payne 3 | Core game dev | None
+MaxPayneDev5 | 16395850 | Max Payne 3 | Core game dev | None
+MaxPayneDev4 | 16395840 | Max Payne 3 + GTA Online + GTA 4 | Core game dev | None
+MaxPayneDev3 | 16395850 | Max Payne 3 + GTA Online + GTA 4 + RDR1 | Core game dev | None
+MaxPayneDev2 | 16395782 | Max Payne 3 | Core game dev | None
+MaxPayneDev1 | 16395773 | All AAA titles up to GTA 5 | Core game dev | None
+MaxPayne3Dev12 | 22577458 | Max Payne 3 | Core game dev | None
+MaxPayne3Dev11 | 22577440 | Max Payne 3 | Core game dev | None
+MaxPayne3Dev9 | 22577121 | Max Payne 3 | Core game dev | None
+GTAdev4 | 16395782 | GTA 5 | Core game dev | None
+GTAdev3 | 20158757 | GTA 5 | Core game dev | None
