@@ -1,20 +1,37 @@
 # List
 SOCIALCLUB TAG | ROCKSTAR ID | TITLES ACTIVE IN | TASKING | NOTES
 ------------ | ------------- | ------------- | ------------- | -------------
+applecloning | 115643538 | GTA Online | Game bug testing | None
+BeoMonstarh | 144372813 | GTA Online | Game bug testing | None
+BlobbyFett22 | 88047835 | GTA Online | Game bug testing | None
+ExoSnowBoarder | 115670847 | GTA Online | Game bug testing | None
+ExtremeThanks15 | 173426004 | GTA Online | Game bug testing | None
+BailMail99 | 170727774 | GTA Online | Online content dev/Game bug testing | PSN: BailMail99
+ForrestTrump69 | 93759254 | GTA Online | Game bug testing | None
+KingOfGolf | 174247774 | GTA Online | Game bug testing | None
+KrustyShackles | 151975489 | GTA Online | Game bug testing | None
+NootN0ot | 151972200 | GTA Online | Game bug testing | None
+PassiveSalon | 146999560 | GTA Online | Game bug testing | None
+PearBiscuits34 | 179930265 | GTA Online | Game bug testing | None
+SlowMoKing | 88435236 | GTA Online | Game bug testing | None
+Smooth_Landing | 179936743 | GTA Online | Game bug testing | None
+SuperTrevor123 | 179848203 | GTA Online | Game bug testing | None
+Tamehippoe | 151158634 | GTA Online | Game bug testing | None
+uwu-bend | 174623904 | GTA Online | Game bug testing | None
+VickDMF | 179936852 | GTA Online | Game bug testing | None
 AlpacaBarista | 117639190 | GTA Online | Game bug testing | None
 The_Real_Harambe | 93759401 | GTA Online | Game bug testing | None
 Flares4Lyfe | 103814653 | GTA Online | Game bug testing | None
 FluteOfMilton | 121970978 | GTA Online | Game bug testing | None
 PipPipJongles | 174623951 | GTA Online | Game bug testing | None
 YUyu-lampon | 174624061 | GTA Online | Game bug testing | None
-DeadOnAir | 10552062 | GTA Online | Game bug testing | None
+DeadOnAir | 10552062 | GTA Online | Online content dev/Game bug testing | None
 Poppernopple | 174625194 | GTA Online | Game bug testing | None
 KrunchyCh1cken | 174625307 | GTA Online | Game bug testing | None
 BlessedChu | 174625407 | GTA Online | Game bug testing | None
 Surgeio | 174625552 | GTA Online | Game bug testing | None
 WindmillDuncan | 174625647 | GTA Online | Game bug testing | None
 Paulverines | 138273823 | GTA Online | Game bug testing | None
-Lofol13 | 138302517 | GTA Online | Game bug testing | None
 ZombieTom66 | 138302559 | GTA Online | Game bug testing | None
 st1nky_p1nky | 139813495 | GTA Online | Game bug testing | None
 OilyLordAinsley | 88435916 | GTA Online | Game bug testing | None
@@ -27,7 +44,7 @@ kingmario11 | 137601710 |  GTA Online | SCTV cheater monitoring | None
 DigitalFox9 | 103054099 | GTA Online | Cheat analysis | None
 FoxesAreCool69 | 104041189 | GTA Online | Cheat analysis | None
 SweetPlumbus | 99453882 | GTA Online | SCTV cheater monitoring + cheat analysis | None
-IM-_-Wassup | 104432921 | GTA Online | SCTV cheater monitori | None
+IM-_-Wassup | 104432921 | GTA Online | SCTV cheater monitoring | None
 WickedFalcon4054 | 147604980 | GTA Online | Game bug testing | None
 aquabull | 130291558 | GTA Online | Game bug testing | None
 Ghostofwar1 | 141884823 | GTA Online | Game bug testing | None
