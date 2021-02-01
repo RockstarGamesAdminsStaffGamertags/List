@@ -10,7 +10,6 @@ BailMail99 | 170727774 | GTA Online | Online content dev/Game bug testing | PSN:
 ForrestTrump69 | 93759254 | GTA Online | Game bug testing | None
 KingOfGolf | 174247774 | GTA Online | Game bug testing | None
 KrustyShackles | 151975489 | GTA Online | Game bug testing | None
-NootN0ot | 151972200 | GTA Online | Game bug testing | None
 PassiveSalon | 146999560 | GTA Online | Game bug testing | None
 PearBiscuits34 | 179930265 | GTA Online | Game bug testing | None
 SlowMoKing | 88435236 | GTA Online | Game bug testing | None
@@ -34,7 +33,7 @@ WindmillDuncan | 174625647 | GTA Online | Game bug testing | None
 Paulverines | 138273823 | GTA Online | Game bug testing | None
 ZombieTom66 | 138302559 | GTA Online | Game bug testing | None
 st1nky_p1nky | 139813495 | GTA Online | Game bug testing | None
-OilyLordAinsley | 88435916 | GTA Online | Game bug testing | None
+OilyLordAinsley | 88435916 | GTA Online + Red Dead Online | Game bug testing | None
 FruitPuncher15 | 174875493 | GTA Online | SCTV cheater monitoring | None
 PisswasserMax | 171094021 | Red Dead Online | SCTV cheater monitoring | None
 BanSparklinWater | 173213117 | Red Dead Online | SCTV cheater monitoring | None
