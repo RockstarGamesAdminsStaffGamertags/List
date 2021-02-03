@@ -1,44 +1,44 @@
 # List
 SOCIALCLUB TAG | ROCKSTAR ID | TITLES ACTIVE IN | TASKING | NOTES
 ------------ | ------------- | ------------- | ------------- | -------------
-Long-boi-load | 174626867 | GTA Online | Game bug testing | None
-NootN0ot | 151972200 | GTA Online | Game bug testing | None
-applecloning | 115643538 | GTA Online | Game bug testing | None
-BeoMonstarh | 144372813 | GTA Online | Game bug testing | None
-BlobbyFett22 | 88047835 | GTA Online | Game bug testing | None
-ExoSnowBoarder | 115670847 | GTA Online | Game bug testing | None
-ExtremeThanks15 | 173426004 | GTA Online | Game bug testing | None
-BailMail99 | 170727774 | GTA Online | Online content dev/Game bug testing | PSN: BailMail99
-ForrestTrump69 | 93759254 | GTA Online | Game bug testing | None
-KingOfGolf | 174247774 | GTA Online | Game bug testing | None
-KrustyShackles | 151975489 | GTA Online | Game bug testing | None
-PassiveSalon | 146999560 | GTA Online | Game bug testing | None
-PearBiscuits34 | 179930265 | GTA Online | Game bug testing | None
-SlowMoKing | 88435236 | GTA Online | Game bug testing | None
-Smooth_Landing | 179936743 | GTA Online | Game bug testing | None
-SuperTrevor123 | 179848203 | GTA Online | Game bug testing | None
-Tamehippoe | 151158634 | GTA Online | Game bug testing | None
-uwu-bend | 174623904 | GTA Online | Game bug testing | None
-VickDMF | 179936852 | GTA Online | Game bug testing | None
-AlpacaBarista | 117639190 | GTA Online | Game bug testing | None
-The_Real_Harambe | 93759401 | GTA Online | Game bug testing | None
-Flares4Lyfe | 103814653 | GTA Online | Game bug testing | None
-FluteOfMilton | 121970978 | GTA Online | Game bug testing | None
-PipPipJongles | 174623951 | GTA Online | Game bug testing | None
-YUyu-lampon | 174624061 | GTA Online | Game bug testing | None
-DeadOnAir | 10552062 | GTA Online | Online content dev/Game bug testing | None
-Poppernopple | 174625194 | GTA Online | Game bug testing | None
-KrunchyCh1cken | 174625307 | GTA Online | Game bug testing | None
-BlessedChu | 174625407 | GTA Online | Game bug testing | None
-Surgeio | 174625552 | GTA Online | Game bug testing | None
-WindmillDuncan | 174625647 | GTA Online | Game bug testing | None
+Long-boi-load | 174626867 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+NootN0ot | 151972200 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+applecloning | 115643538 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+BeoMonstarh | 144372813 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+BlobbyFett22 | 88047835 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+ExoSnowBoarder | 115670847 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+ExtremeThanks15 | 173426004 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+BailMail99 | 170727774 | GTA Online | Online content dev/Game bug testing + possible cheater monitoring(?) | PSN: BailMail99
+ForrestTrump69 | 93759254 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+KingOfGolf | 174247774 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+KrustyShackles | 151975489 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+PassiveSalon | 146999560 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+PearBiscuits34 | 179930265 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+SlowMoKing | 88435236 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+Smooth_Landing | 179936743 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+SuperTrevor123 | 179848203 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+Tamehippoe | 151158634 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+uwu-bend | 174623904 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+VickDMF | 179936852 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+AlpacaBarista | 117639190 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+The_Real_Harambe | 93759401 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+Flares4Lyfe | 103814653 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+FluteOfMilton | 121970978 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+PipPipJongles | 174623951 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+YUyu-lampon | 174624061 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+DeadOnAir | 10552062 | GTA Online | Online content dev/Game bug testing + possible cheater monitoring(?) | None
+Poppernopple | 174625194 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+KrunchyCh1cken | 174625307 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+BlessedChu | 174625407 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+Surgeio | 174625552 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+WindmillDuncan | 174625647 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
 Paulverines | 138273823 | GTA Online | Game bug testing | None
 ZombieTom66 | 138302559 | GTA Online | Game bug testing | None
-st1nky_p1nky | 139813495 | GTA Online | Game bug testing | None
-OilyLordAinsley | 88435916 | GTA Online + Red Dead Online | Game bug testing | None
+st1nky_p1nky | 139813495 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+OilyLordAinsley | 88435916 | GTA Online + Red Dead Online | Game bug testing + possible cheater monitoring(?) | None
 FruitPuncher15 | 174875493 | GTA Online | SCTV cheater monitoring | None
 PisswasserMax | 171094021 | Red Dead Online | SCTV cheater monitoring | None
-BanSparklinWater | 173213117 | Red Dead Online | SCTV cheater monitoring | None
+BanSparklinWater | 173213117 | GTA Online + Red Dead Online | SCTV cheater monitoring | None
 BrucieJuiceyIV | 171093866 | Red Dead Online | SCTV cheater monitoring | None
 RapidRaichu | 88435362 | GTA Online + Red Dead Online | Game bug testing | None
 kingmario11 | 137601710 |  GTA Online | SCTV cheater monitoring | None
