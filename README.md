@@ -1,6 +1,8 @@
 # List
 SOCIALCLUB TAG | ROCKSTAR ID | TITLES ACTIVE IN | TASKING | NOTES
 ------------ | ------------- | ------------- | ------------- | -------------
+Long-boi-load | 174626867 | GTA Online | Game bug testing | None
+NootN0ot | 151972200 | GTA Online | Game bug testing | None
 applecloning | 115643538 | GTA Online | Game bug testing | None
 BeoMonstarh | 144372813 | GTA Online | Game bug testing | None
 BlobbyFett22 | 88047835 | GTA Online | Game bug testing | None
