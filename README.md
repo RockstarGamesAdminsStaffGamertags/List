@@ -1,6 +1,9 @@
 # List
 SOCIALCLUB TAG | ROCKSTAR ID | TITLES ACTIVE IN | TASKING | NOTES
 ------------ | ------------- | ------------- | ------------- | -------------
+ChangryMonkey | 88435319 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+StompoGrande | 64499496 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
+x_Shannandoo_x | 174623946 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
 Long-boi-load | 174626867 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
 NootN0ot | 151972200 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
 applecloning | 115643538 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
