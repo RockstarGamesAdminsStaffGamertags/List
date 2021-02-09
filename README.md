@@ -75,9 +75,9 @@ Kakorot02 | 129159629 | GTA Online | SCTV cheater monitoring | None
 CrazyCatPilots | 127403483 | GTA Online | Game bug testing | None
 G_ashman | 174194059 | GTA Online | Game bug testing | None
 Rossthetic | 131973478 | GTA Online | Alt account of Huginn5
-StrongBelwas1 | 64234321 | GTA Online | SCTV cheater monitoring | None
-TonyMSD1 | 62409944 | GTA Online | SCTV cheater monitoring | Alt account of StrongBelwas1
-AMoreno14 | 64074298 | GTA Online | SCTV cheater monitoring | Alt account of StrongBelwas1
+StrongBelwas1 | 64234321 | GTA Online | Technical QA Tester | None
+TonyMSD1 | 62409944 | GTA Online | Technical QA Tester | Alt account of StrongBelwas1
+AMoreno14 | 64074298 | GTA Online | Technical QA Tester | Alt account of StrongBelwas1
 PayneInUrAbs | 133709045 | GTA Online | SCTV cheater monitoring | None
 shibuz_gamer123 | 134412628 | GTA Online | SCTV cheater monitoring | None
 M1thras | 137579070 | GTA Online | SCTV cheater monitoring | Alt account of Huginn5
