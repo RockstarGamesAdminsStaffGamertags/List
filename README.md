@@ -20,7 +20,7 @@ KingOfGolf | 174247774 | GTA Online | Cheater monitoring + Game bug testing | No
 KrustyShackles | 151975489 | GTA Online | Cheater monitoring + Game bug testing | None
 PassiveSalon | 146999560 | GTA Online | Cheater monitoring + Game bug testing | None
 PearBiscuits34 | 179930265 | GTA Online | Cheater monitoring + Game bug testing | None
-SlowMoKing | 88435236 | GTA Online | Cheater monitoring + Game bug testing | None
+SlowMoKing | 88435236 | GTA Online + Red Dead Online | Cheater monitoring + Game bug testing | None
 Smooth_Landing | 179936743 | GTA Online | Cheater monitoring + Game bug testing | None
 SuperTrevor123 | 179848203 | GTA Online | Cheater monitoring + Game bug testing | None
 Tamehippoe | 151158634 | GTA Online | Cheater monitoring + Game bug testing | None
