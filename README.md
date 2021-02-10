@@ -1,7 +1,6 @@
 # List
 SOCIALCLUB TAG | ROCKSTAR ID | TITLES ACTIVE IN | TASKING | NOTES
 ------------ | ------------- | ------------- | ------------- | -------------
-BeoMonstarh | 144372813 | GTA Online | Cheater monitoring + Game bug testing | None
 CapnZebraZorse | 117639172 | GTA Online | Cheater monitoring + Game bug testing | None
 godlyGoodestBoi | 142582982 | GTA Online | Cheater monitoring + Game bug testing | None
 whiskylifter | 115642993 | GTA Online | Cheater monitoring + Game bug testing | None
