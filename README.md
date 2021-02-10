@@ -66,7 +66,7 @@ flyingcobra16 | 121397532 | GTA Online | SCTV cheater monitoring | None
 CriticalRegret | 121698158 | GTA Online | Cheat analysis | None
 ScentedPotter | 18965281 | GTA Online | Cheat analysis | None
 Huginn5 | 56778561 | GTA Online | Cheat analysis | None
-Sonknuck- | 63457 | GTA Online + Red Dead Online | Cheat analysis | PSN: Sonknuck-
+Sonknuck- | 63457 | GTA Online + Red Dead Online | Cheat analysis | PSN: Sonknuck- Twitch: https://www.twitch.tv/sonknuck90
 HammerDaddy69 | 121943600 | GTA Online | SCTV cheater monitoring | None
 johnet123 | 123017343 | GTA Online | Game bug testing | None
 bipolarcarp | 123849404 | GTA Online | SCTV cheater monitoring | Suspected alt account of Huginn5
