@@ -1,6 +1,9 @@
 # List
 SOCIALCLUB TAG | ROCKSTAR ID | TITLES ACTIVE IN | TASKING | NOTES
 ------------ | ------------- | ------------- | ------------- | -------------
+BackBoyoDrill | 184360405 | Red Dead Online | Cheater monitoring + Game bug testing | None
+NoAuthorityHere | 184359255 | Red Dead Online | Cheater monitoring + Game bug testing | None
+ScentedString | 182860908 | Red Dead Online | Cheater monitoring + Game bug testing | None
 CapnZebraZorse | 117639172 | GTA Online | Cheater monitoring + Game bug testing | None
 godlyGoodestBoi | 142582982 | GTA Online | Cheater monitoring + Game bug testing | None
 whiskylifter | 115642993 | GTA Online | Cheater monitoring + Game bug testing | None
@@ -25,12 +28,12 @@ PearBiscuits34 | 179930265 | GTA Online | Cheater monitoring + Game bug testing 
 SlowMoKing | 88435236 | GTA Online + Red Dead Online | Cheater monitoring + Game bug testing | None
 Smooth_Landing | 179936743 | GTA Online | Cheater monitoring + Game bug testing | None
 SuperTrevor123 | 179848203 | GTA Online | Cheater monitoring + Game bug testing | None
-Tamehippoe | 151158634 | GTA Online | Cheater monitoring + Game bug testing | None
+Tamehippoe | 151158634 | GTA Online + Red Dead Online | Cheater monitoring + Game bug testing | None
 uwu-bend | 174623904 | GTA Online | Cheater monitoring + Game bug testing | None
 VickDMF | 179936852 | GTA Online | Cheater monitoring + Game bug testing | None
 AlpacaBarista | 117639190 | GTA Online | Cheater monitoring + Game bug testing | None
 The_Real_Harambe | 93759401 | GTA Online | Cheater monitoring + Game bug testing | None
-Flares4Lyfe | 103814653 | GTA Online | Cheater monitoring + Game bug testing | None
+Flares4Lyfe | 103814653 | GTA Online + Red Dead Online | Cheater monitoring + Game bug testing | None
 FluteOfMilton | 121970978 | GTA Online | Cheater monitoring + Game bug testing | None
 PipPipJongles | 174623951 | GTA Online | Cheater monitoring + Game bug testing | None
 YUyu-lampon | 174624061 | GTA Online | Cheater monitoring + Game bug testing | None
