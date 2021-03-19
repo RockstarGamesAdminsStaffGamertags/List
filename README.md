@@ -1,6 +1,7 @@
 # List
 SOCIALCLUB TAG | ROCKSTAR ID | TITLES ACTIVE IN | TASKING | NOTES
 ------------ | ------------- | ------------- | ------------- | -------------
+RollD20 | 89288299 | GTA Online | Cheater monitoring + Game bug testing | None
 SecretWizzle54 | 88439202 | GTA Online | Cheater monitoring + Game bug testing | None
 Wawaweewa_I_Like | 179848415 | GTA Online | Cheater monitoring + Game bug testing | None
 BackBoyoDrill | 184360405 | Red Dead Online | Cheater monitoring + Game bug testing | None
