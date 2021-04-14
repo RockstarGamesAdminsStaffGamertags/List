@@ -58,7 +58,7 @@ BrucieJuiceyIV | 171093866 | Red Dead Online | SCTV cheater monitoring | None
 RapidRaichu | 88435362 | GTA Online + Red Dead Online | Game bug testing | None
 kingmario11 | 137601710 |  GTA Online | SCTV cheater monitoring | None
 DigitalFox9 | 103054099 | GTA Online | Cheat analysis | None
-FoxesAreCool69 | 104041189 | GTA Online | Cheat analysis | None
+FoxesAreCool69 | 104041189 | GTA Online | Cheat analysis | UnknownCheats profile: https://www.unknowncheats.me/forum/members/2087935.html
 SweetPlumbus | 99453882 | GTA Online | SCTV cheater monitoring + cheat analysis | None
 IM-_-Wassup | 104432921 | GTA Online | SCTV cheater monitoring | None
 WickedFalcon4054 | 147604980 | GTA Online | Game bug testing | None
@@ -74,7 +74,7 @@ random123 | 216820 | GTA Online | SCTV cheater monitoring | None
 flyingcobra16 | 121397532 | GTA Online | SCTV cheater monitoring | None
 CriticalRegret | 121698158 | GTA Online | Cheat analysis | None
 ScentedPotter | 18965281 | GTA Online | Cheat analysis | None
-Huginn5 | 56778561 | GTA Online | Cheat analysis | None
+Huginn5 | 56778561 | GTA Online | Cheat analysis | Se7enSins profile: https://www.se7ensins.com/members/gthomps.1416409/ UnknownCheats profile: https://www.unknowncheats.me/forum/members/2441305.html
 Sonknuck- | 63457 | GTA Online + Red Dead Online | Cheat analysis | PSN: Sonknuck- Twitch: https://www.twitch.tv/sonknuck90
 HammerDaddy69 | 121943600 | GTA Online | SCTV cheater monitoring | None
 johnet123 | 123017343 | GTA Online | Game bug testing | None
