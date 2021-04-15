@@ -32,7 +32,7 @@ PearBiscuits34 | 179930265 | GTA Online | Cheater monitoring + Game bug testing 
 SlowMoKing | 88435236 | GTA Online + Red Dead Online | Cheater monitoring + Game bug testing | None
 Smooth_Landing | 179936743 | GTA Online | Cheater monitoring + Game bug testing | None
 SuperTrevor123 | 179848203 | GTA Online | Cheater monitoring + Game bug testing | None
-Tamehippoe | 151158634 | GTA Online + Red Dead Online | Cheater monitoring + Game bug testing | None
+Tamehippo | 151158634 | GTA Online + Red Dead Online | Cheater monitoring + Game bug testing | None
 uwu-bend | 174623904 | GTA Online | Cheater monitoring + Game bug testing | None
 VickDMF | 179936852 | GTA Online | Cheater monitoring + Game bug testing | None
 AlpacaBarista | 117639190 | GTA Online | Cheater monitoring + Game bug testing | None
