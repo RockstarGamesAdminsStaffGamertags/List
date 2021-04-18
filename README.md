@@ -1,7 +1,7 @@
 # List
 SOCIALCLUB TAG | ROCKSTAR ID | TITLES ACTIVE IN | TASKING | NOTES
 ------------ | ------------- | ------------- | ------------- | -------------
-Spacer-galore | 67241866 | GTA Online | Cheater monitoring + Game bug testing | None
+Spacer-galore | 67241866 | GTA Online + Red Dead Online| Cheater monitoring + Game bug testing | None
 RollD20 | 89288299 | GTA Online | Cheater monitoring + Game bug testing | None
 SecretWizzle54 | 88439202 | GTA Online | Cheater monitoring + Game bug testing | None
 Wawaweewa_I_Like | 179848415 | GTA Online | Cheater monitoring + Game bug testing | None
@@ -95,7 +95,7 @@ Z3ro_Chill | 137851207 | GTA Online | SCTV cheater monitoring | Alt account of H
 Titan261 | 130291511 | GTA Online | Game bug testing | None
 Coffee_Collie | 138075198 | GTA Online | Unknown | None
 BananaGod951 | 137663665 | GTA Online | SCTV cheater monitoring | None
-s0cc3r33 | 9284553 |  GTA Online + Red Dead Online | SCTV cheater monitoring | None
+s0cc3r33 | 9284553 |  GTA Online + Red Dead Online | SCTV cheater monitoring | 04/18/21: Gamertag changed to RDR_Dev
 trajan5 | 147111499 | GTA Online | SCTV cheater monitoring | Alt account of Huginn5
 thewho146 | 6597634 | GTA Online | Game bug testing | None
 Bangers_RSG | 23659342 | GTA Online | Live streams | None
