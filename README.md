@@ -139,11 +139,11 @@ MaxPayneDev7 | 16396091 | Max Payne 3 | Core game dev | None
 MaxPayneDev6 | 16396080 | Max Payne 3 | Core game dev | None
 MaxPayneDev5 | 16395850 | Max Payne 3 | Core game dev | None
 MaxPayneDev4 | 16395840 | Max Payne 3 + GTA Online + GTA 4 | Core game dev | None
-MaxPayneDev3 | 16395850 | Max Payne 3 + GTA Online + GTA 4 + RDR1 | Core game dev | None
+MaxPayneDev3 | 16395801 | Max Payne 3 + GTA Online + GTA 4 + RDR1 | Core game dev | None
 MaxPayneDev2 | 16395782 | Max Payne 3 | Core game dev | None
 MaxPayneDev1 | 16395773 | All AAA titles up to GTA 5 | Core game dev | None
 MaxPayne3Dev12 | 22577458 | Max Payne 3 | Core game dev | None
 MaxPayne3Dev11 | 22577440 | Max Payne 3 | Core game dev | None
 MaxPayne3Dev9 | 22577121 | Max Payne 3 | Core game dev | None
-GTAdev4 | 16395782 | GTA 5 | Core game dev | None
+GTAdev4 | 20158759 | GTA 5 | Core game dev | None
 GTAdev3 | 20158757 | GTA 5 | Core game dev | None
