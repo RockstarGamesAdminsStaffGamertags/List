@@ -38,7 +38,7 @@ VickDMF | 179936852 | GTA Online | Cheater monitoring + Game bug testing | None
 AlpacaBarista | 117639190 | GTA Online | Cheater monitoring + Game bug testing | None
 The_Real_Harambe | 93759401 | GTA Online | Cheater monitoring + Game bug testing | None
 Flares4Lyfe | 103814653 | GTA Online + Red Dead Online | Cheater monitoring + Game bug testing | None
-FluteOfMilton | 121970978 | GTA Online | Cheater monitoring + Game bug testing | None
+FluteOfMilton | 121970978 | GTA Online | SCTV Cheater monitoring + Game bug testing | None
 PipPipJongles | 174623951 | GTA Online | Cheater monitoring + Game bug testing | None
 YUyu-lampon | 174624061 | GTA Online | Cheater monitoring + Game bug testing | None
 DeadOnAir | 10552062 | GTA Online | Online content dev/Game bug testing | None
