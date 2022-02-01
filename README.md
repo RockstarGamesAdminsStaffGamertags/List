@@ -47,6 +47,7 @@ KrunchyCh1cken | 174625307 | GTA Online | Cheater monitoring + Game bug testing 
 BlessedChu | 174625407 | GTA Online | Cheater monitoring + Game bug testing | None
 Surgeio | 174625552 | GTA Online | Cheater monitoring + Game bug testing | None
 WindmillDuncan | 174625647 | GTA Online | Cheater monitoring + Game bug testing | None
+Wanted_Sign42 | 204071275 | GTA Online | Game bug testing | None
 Paulverines | 138273823 | GTA Online | Game bug testing | None
 ZombieTom66 | 138302559 | GTA Online | Game bug testing | None
 st1nky_p1nky | 139813495 | GTA Online | Game bug testing + possible cheater monitoring(?) | None
