@@ -107,7 +107,7 @@ thewho146 | 6597634 | GTA Online | Game bug testing | None
 Bangers_RSG | 23659342 | GTA Online | Live streams | None
 Bash_RSG | 23659354 | GTA Online | Live streams | None
 Bubblez_RSG | 103318524 | GTA Online | Live streams | None
-ramendingo | 191415974 | GTA Online | Unknwon | None
+ramendingo | 191415974 | GTA Online | Unknown | None
 ChefRSG | 132521200 | GTA Online | Unknown | None
 Chunk_RSG | 107713114 | GTA Online | Live streams | None
 HotTub_RSG | 107713060 | GTA Online | Live streams | None
