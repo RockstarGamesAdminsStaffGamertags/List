@@ -45,6 +45,7 @@ FluteOfMilton | 121970978 | GTA Online | Cheater monitoring + Game bug testing |
 PipPipJongles | 174623951 | GTA Online | Cheater monitoring + Game bug testing | None
 YUyu-lampon | 174624061 | GTA Online | Cheater monitoring + Game bug testing | None
 DeadOnAir | 10552062 | GTA Online | Online content dev/Game bug testing | None
+Dumptruck42168 | 201693551 | GTA Online | Game bug testing | None 
 Poppernopple | 174625194 | GTA Online | Cheater monitoring + Game bug testing | None
 KrunchyCh1cken | 174625307 | GTA Online | Cheater monitoring + Game bug testing | None
 BlessedChu | 174625407 | GTA Online | Cheater monitoring + Game bug testing | None
