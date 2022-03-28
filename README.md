@@ -77,6 +77,7 @@ JulianApost4te | 155527062 | GTA Online | SCTV cheater monitoring | Alt account 
 DarkStar7171 | 114982881 | GTA Online + Red Dead Online | Unknown | None
 xCuteBunny | 119266383 | GTA Online | SCTV cheater monitoring | None
 random_123 | 119958356 | GTA Online | SCTV cheater monitoring | None
+SheddingYeti | 135811063 | GTA Online | cheater monitoring | None
 random123 | 216820 | GTA Online | SCTV cheater monitoring | None
 flyingcobra16 | 121397532 | GTA Online | SCTV cheater monitoring | None
 CriticalRegret | 121698158 | GTA Online | Cheat analysis | None
