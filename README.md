@@ -1,8 +1,9 @@
 # List
-SOCIALCLUB TAG | ROCKSTAR ID | TITLES ACTIVE IN | TASKING | NOTES
------------- | ------------- | ------------- | ------------- | -------------
+SOCIALCLUB TAG | ROCKSTAR ID | TITLES ACTIVE IN | TASKING | NOTES 
+------------ | ------------- | ------------- | ------------- | -------
 Spacer-galore| 67241866 | GTA Online + Red Dead Online| Cheater monitoring + Game bug testing | None
-Laurie_Williams | 77817603 | GTA Online | cheater monitoring | None
+Fortune_Cukie | 24037237 | GTA Online | cheater monitoring | None
+Laurie_Williams | 77817603 | GTA Online | cheater monitoring | None |
 RollD20 | 89288299 | GTA Online | Cheater monitoring + Game bug testing | None
 SecretWizzle54 | 88439202 | GTA Online | Cheater monitoring + Game bug testing | None
 Wawaweewa_I_Like | 179848415 | GTA Online | Cheater monitoring + Game bug testing | None
@@ -34,8 +35,9 @@ SlowMoKing | 88435236 | GTA Online + Red Dead Online | Cheater monitoring + Game
 Smooth_Landing | 179936743 | GTA Online | Cheater monitoring + Game bug testing | None
 SuperTrevor123 | 179848203 | GTA Online | Cheater monitoring + Game bug testing | None
 Tamehippo | 151158634 | GTA Online + Red Dead Online | Cheater monitoring + Game bug testing | None
+LazingLion | 89705641 | GTA Online | Unknown | Nonne
 uwu-bend | 174623904 | GTA Online | Cheater monitoring + Game bug testing | None
-VickDMF | 179936852 | GTA Online | Cheater monitoring + Game bug testing | None
+VickDMF | 179936852 | GTA Online | Game bug testing | Appears to just be a tester
 AlpacaBarista | 117639190 | GTA Online | Cheater monitoring + Game bug testing | None
 The_Real_Harambe | 93759401 | GTA Online | Cheater monitoring + Game bug testing | None
 Flares4Lyfe | 103814653 | GTA Online + Red Dead Online | Cheater monitoring + Game bug testing | None
@@ -94,6 +96,7 @@ CrazyCatPilots | 127403483 | GTA Online | Game bug testing | None
 G_ashman | 174194059 | GTA Online | Game bug testing | None
 Rossthetic | 131973478 | GTA Online | Alt account of Huginn5
 StrongBelwas1 | 64234321 | GTA Online | Technical QA Tester | None
+vulconn | 64624133 | GTA Online | Unknown | None
 TonyMSD1 | 62409944 | GTA Online | Technical QA Tester | Alt account of StrongBelwas1
 AMoreno14 | 64074298 | GTA Online | Technical QA Tester | Alt account of StrongBelwas1
 PayneInUrAbs | 133709045 | GTA Online | SCTV cheater monitoring | None
@@ -102,9 +105,11 @@ M1thras | 137579070 | GTA Online | SCTV cheater monitoring | Alt account of Hugi
 Th3_Morr1gan | 137714280 | GTA Online | SCTV cheater monitoring | Alt account of Huginn5
 Z3ro_Chill | 137851207 | GTA Online | SCTV cheater monitoring | Alt account of Huginn5
 Titan261 | 130291511 | GTA Online | Game bug testing | None
-Coffee_Collie | 138075198 | GTA Online | Unknown | None
+Coffee_Collie | 138075198 | GTA Online | Game bug testing | Appears to just be a tester
+YellingRat | 89705672 | GTA Online | Unknown |None
 BananaGod951 | 137663665 | GTA Online | SCTV cheater monitoring | None
 RDR_Dev | 9284553 |  GTA Online + Red Dead Online | SCTV cheater monitoring | 04/17/21: Gamertag changed from s0cc3r33 to RDR_Dev
+FecundWolf | 89797943 | GTA Online | Unknown | None
 trajan5 | 147111499 | GTA Online | SCTV cheater monitoring | Alt account of Huginn5
 thewho146 | 6597634 | GTA Online | Game bug testing | None
 Bangers_RSG | 23659342 | GTA Online | Live streams | None
@@ -122,6 +127,7 @@ RSGWolfman | 77205006 | GTA Online | Unknown | None
 TheUntamedVoid | 25695975 | GTA Online | Unknown | None
 TylerTGTAB | 24646485 | GTA Online | Unknown | XB gamertag: SurvivorNumber1
 Wilted_spinach | 49770174 | None | Unknown | None
+DannSw | 28776717 | None | Unknown | None
 RSGINTJoe | 146452200 | GTA Online + Red Dead Online | Unknown | None
 RSGGuestV | 54468359 | GTA Online | Unknown | None
 RSGGuest50 | 54462116 | GTA Online | Unknown | None
@@ -131,6 +137,8 @@ RSGGuest12 | 21088063 | GTA Online | Unknown | None
 RSGGuest7 | 50850475 | GTA Online | Unknown | None
 ScottM_RSG | 31586721 | GTA Online | Unknown | None
 Rockin5 | 56583239 | GTA Online | Unknown | None
+MonkeyViking | 41352312 | GTA Online | Unkown | None 
+Anghard07 | 56176623 | Gta Online | Unknown | None
 playrockstar6 | 20158753 | GTA Online | Unknown | None
 PlayRockstar5 | 20158751 | GTA Online | Unknown | None
 PlayRockstar1 | 23659351 | GTA Online | Unknown | None
