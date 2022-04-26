@@ -35,6 +35,7 @@ SlowMoKing | 88435236 | GTA Online + Red Dead Online | Cheater monitoring + Game
 Smooth_Landing | 179936743 | GTA Online | Cheater monitoring + Game bug testing | None
 SuperTrevor123 | 179848203 | GTA Online | Cheater monitoring + Game bug testing | None
 Tamehippo | 151158634 | GTA Online + Red Dead Online | Cheater monitoring + Game bug testing | None
+Thrillhouse12 | 205951017 | GTA Online |  Cheater monitoring + Game bug testing | None
 LazingLion | 89705641 | GTA Online | Unknown | Nonne
 uwu-bend | 174623904 | GTA Online | Cheater monitoring + Game bug testing | None
 VickDMF | 179936852 | GTA Online | Game bug testing | Appears to just be a tester
