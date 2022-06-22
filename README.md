@@ -2,6 +2,9 @@
 SOCIALCLUB TAG | ROCKSTAR ID | TITLES ACTIVE IN | TASKING | NOTES 
 ------------ | ------------- | ------------- | ------------- | -------
 Spacer-galore| 67241866 | GTA Online + Red Dead Online| Cheater monitoring + Game bug testing | None
+RollingBuffalo | 211750362 | GTA Online | cheater monitoring | None
+ScaryArmadillo | 211702584 | GTA Online | cheater monitoring | None
+MrOrange619 | 211532217 | GTA Online | cheater monitoring | None
 Fortune_Cukie | 24037237 | GTA Online | cheater monitoring | None
 Laurie_Williams | 77817603 | GTA Online | cheater monitoring | None |
 RollD20 | 89288299 | GTA Online | Cheater monitoring + Game bug testing | None
