@@ -1,7 +1,8 @@
 # List
 SOCIALCLUB TAG | ROCKSTAR ID | TITLES ACTIVE IN | TASKING | NOTES 
 ------------ | ------------- | ------------- | ------------- | -------
-Spacer-galore| 67241866 | GTA Online + Red Dead Online| Cheater monitoring + Game bug testing | None
+Spacer-galore | 67241866 | GTA Online + Red Dead Online| Cheater monitoring + Game bug testing | None
+BinnyAndTheJets | 201693153 GTA Online | GTA Online + Cheater monitoring + Game bug testing | Dev
 RollingBuffalo | 211750362 | GTA Online | cheater monitoring | None
 ScaryArmadillo | 211702584 | GTA Online | cheater monitoring | None
 MrOrange619 | 211532217 | GTA Online | cheater monitoring | None
