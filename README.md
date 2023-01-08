@@ -2,6 +2,16 @@
 SOCIALCLUB TAG | ROCKSTAR ID | TITLES ACTIVE IN | TASKING | NOTES 
 ------------ | ------------- | ------------- | ------------- | -------
 Spacer-galore | 67241866 | GTA Online + Red Dead Online| Cheater monitoring + Game bug testing | None
+NotASkaven | 117641111 | GTA Online  | Unknown | None 
+HighlandGrandad | 173200071 | GTA Online  | Unknown | None 
+RogerRabbit455 | 196222661 | GTA Online  | Unknown | None 
+ElChupacabra55 | 179654627 | GTA Online  | Unknown | Rockstar India 
+Outeroshark12 | 214327469 | GTA Online  | Unknown | Rockstar India 
+Titandevine | 213560223 | GTA Online  | Unknown | Rockstar India 
+RightyTightyOil | 179608067 | GTA Online  | Unknown | None 
+BURNFURY95 | 209260139 | GTA Online  | Unknown | None 
+Kauliflour | 195489237 | GTA Online  | Unknown | None 
+eldorado365 | 209260788 | GTA Online  | Unknown | Rockstar India 
 BinnyAndTheJets | 201693153 | GTA Online | GTA Online + Cheater monitoring + Game bug testing | Dev
 RollingBuffalo | 211750362 | GTA Online | cheater monitoring | None
 ScaryArmadillo | 211702584 | GTA Online | cheater monitoring | None
